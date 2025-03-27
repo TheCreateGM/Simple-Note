@@ -1,0 +1,16 @@
+C:\Users\axogm\Documents\Project\Note\Note\bin\Debug\net8.0-windows\Note.exe
+C:\Users\axogm\Documents\Project\Note\Note\bin\Debug\net8.0-windows\Note.deps.json
+C:\Users\axogm\Documents\Project\Note\Note\bin\Debug\net8.0-windows\Note.runtimeconfig.json
+C:\Users\axogm\Documents\Project\Note\Note\bin\Debug\net8.0-windows\Note.dll
+C:\Users\axogm\Documents\Project\Note\Note\bin\Debug\net8.0-windows\Note.pdb
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.Form1.resources
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.vbproj.GenerateResource.cache
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.AssemblyInfoInputs.cache
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.AssemblyInfo.vb
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.vbproj.CoreCompileInputs.cache
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.dll
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\refint\Note.dll
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.pdb
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\Note.genruntimeconfig.cache
+C:\Users\axogm\Documents\Project\Note\Note\obj\Debug\net8.0-windows\ref\Note.dll
